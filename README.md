@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://app.daily.dev/zeano"><img src="https://api.daily.dev/devcards/35d155776663466e8b2d5ebcd0b485a4.png?r=kkn" width="400" alt="Zeano's Dev Card"/></a>
 <!--
 **lewis0811/lewis0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
