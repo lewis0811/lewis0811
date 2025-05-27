@@ -21,7 +21,7 @@
 
 ### About me
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pphatt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=lewis0811&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 
 - :newspaper_roll: C# / Java / JavaScript / Typescript
 - :computer: Window
